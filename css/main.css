@@ -159,8 +159,7 @@ body.fade-out {
 }
 
 .name{
-    display: inline;
-    position: absolute;
+    position: fixed;
     top: 10px;
     left: 10px;
     z-index: -9999;
