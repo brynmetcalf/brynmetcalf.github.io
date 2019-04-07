@@ -166,13 +166,12 @@ body.fade-out {
 }
 
 .line{
-position: absolute;
-top: 50px;
-left: 50px;
-width: 95vw;
-z-index: 20;
-opacity: 1;
-    pointer-events: none;}
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 95vw;
+    z-index: 20;
+    opacity: 1;}
 
 .col1{width: 25%;}
 .col2{width: 50%;}
