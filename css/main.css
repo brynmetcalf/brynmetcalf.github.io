@@ -137,11 +137,7 @@ body.fade-out {
     box-sizing: border-box;
     bottom: 15px;}
 
-.credit{
-    bottom: 30%;
-    left: 50%;
-    position: fixed;
-    display: flex;}
+
 
 .contact{
     box-sizing: border-box;
@@ -150,13 +146,9 @@ body.fade-out {
     padding-top: 25%;
     padding-bottom: 5%;
     position: relative;
-    z-index: 9999;}
-
-.description{
-    display: flex;
-    position: fixed;
     z-index: 9999;
-}
+    text-align: center;}
+
 
 .name{
     position: fixed;
